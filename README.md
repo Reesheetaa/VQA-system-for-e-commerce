@@ -1,5 +1,4 @@
-# VR Project-2 
-**By: Rishita Patel (MS2024016), Anwesh Nayak (MS20224003), Ashashree Sarma (MS2024005)**
+# Visual Question Answering system for e-commerce
 
 ## Introduction
 This project entails development of a Visual Question Answering (VQA) system for e-commerce products using the Amazon Berkeley Objects (ABO) dataset. 
